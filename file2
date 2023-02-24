@@ -1,0 +1,17 @@
+We create wonders
+Vi editor basics notes
+
+click i insert mode will open
+then write something
+press esc button then it will exit from insert mode 
+enter shift + colon :
+press w write its saves
+press q exit its exicts
+press ! force exit its exits from file
+wq! --> save,exit and force exit
+
+git process
+
+pull github to local (git)
+commit ready to push git to go into github
+push (local) git to github
