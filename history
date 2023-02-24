@@ -1,0 +1,25 @@
+ history
+    1  histoy
+    2  history
+    3  history
+    4  git clone https://github.com/Udaykiran90/Basics-git.git
+    5  ll
+    6  git status
+    7  git add .
+    8  git status
+    9   git config --global user.name “Udaykiran90"
+   10  git commit -m "linux"
+   11   git config --global user.email "udaykiran.thatthari@gmail.com"
+   12   git config --global user.name "Udaykiran90"
+   13  git push origin main
+   14  git push origin main
+   15  git push origin main
+   16  git push origin main
+   17  pwd
+   18   git pull origin main
+   19  git log
+   20  git status
+   21  git commit -m "linux"
+   22  git status
+   23  git push origin main
+   24  history
